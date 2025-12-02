@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Feliz Cumpleaños Mi Niña Hermosa ❤️</title>
+  <title>Feliz Cumpleaños
+    Mi Niña Hermosa ❤️</title>
 
   <!-- =========================
        ESTILOS (CSS)
@@ -211,8 +212,8 @@
 
         <div class="message" id="mainMessage">
           <!-- Mensaje editable por JS -->
-          Hoy celebro que existes y cada momento que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores.
-          Quiero que hoy te rías mucho y que sientas todo mi cariño, talves esto no sea mucho pero aun asi te deseo lo mejor ,asi como te deseo lo mejor te deseo todas las noches.
+          Hoy celebro un primer año de tu cumpleaños  y cada momentos que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores.
+          Quiero que hoy te rías mucho y que sientas todo mi cariño, mi niña preciosa, talves esto no sea mucho pero aun asi te deseo lo mejor ,asi como te deseo lo mejor te deseo todas las noches.
         </div>
 
         <!-- Botones de interacción -->
@@ -246,8 +247,8 @@
         </div>
 
         <div class="notes">
-          <div class="note">💌 Sugerencia: prepara una sorpresa simple — un paseo, una carta, o un video corto.</div>
-          <div class="note">🌅 Plan gratuito: un atardecer juntos y una playlist que le guste.</div>
+          <div class="note">💌 Feliz cumpleaños mi princesa Hermosa.</div>
+          <div class="note">🌅 Tus Hojos marrones son Hermosos como el atardecer  .</div>
         </div>
 
       </aside>
