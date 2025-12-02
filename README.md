@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -212,7 +212,7 @@
         <div class="message" id="mainMessage">
           <!-- Mensaje editable por JS -->
           Hoy celebro que existes y cada momento que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores.
-          Quiero que hoy te rías mucho y que sientas todo mi cariño, talves esto sea mucho pero aun asi te deseo lo mejor 
+          Quiero que hoy te rías mucho y que sientas todo mi cariño, talves esto no sea mucho pero aun asi te deseo lo mejor ,asi como te deseo lo mejor te deseo todas las noches.
         </div>
 
         <!-- Botones de interacción -->
@@ -225,7 +225,7 @@
 
         <!-- Barra de edición (oculta). Aquí puedes cambiar el nombre y el mensaje -->
         <div class="edit-bar" id="editBar" style="display:none;">
-          <input id="inputName" placeholder="Escribe su nombre" style="padding:8px;border-radius:8px;border:1px solid #ffddee;" />
+          <input id="inputName" placeholder="Sheyla" style="padding:8px;border-radius:8px;border:1px solid #ffddee;" />
           <textarea id="inputMsg" rows="3" placeholder="Escribe tu mensaje..." style="padding:8px;border-radius:8px;border:1px solid #ffddee; width:100%;"></textarea>
           <button class="btn btn-primary" id="saveEdit">Guardar</button>
           <button class="btn" id="cancelEdit" style="background:#fff; border:1px solid #f2cfe3">Cancelar</button>
@@ -261,11 +261,11 @@
   <script>
     /* =========================
        CONFIGURACIÓN: Cambia estos valores para personalizar rápido
-       - herName: nombre que aparecerá en el título (reemplaza por su nombre)
+       - herName: nombre que aparecerá en el título (Sheyla)
        - messageText: texto principal
      ========================= */
-    let herName = "Amor";
-    let messageText = "Hoy celebro que existes y cada momento que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores. Te amo.";
+    let herName = "Mi Niña hermosa";
+    let messageText = "Hoy celebro que existes y cada momento que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores. gracias tanto asi como soportarme y aguantarme y te deseo lo mejor mi princesa y asi como te deseo lo mejor tambien te deseo y tu ya sabes a lo que me refiero😏🤣❤️.";
 
     // Inicializar textos en la página
     document.getElementById('her-name').textContent = herName;
