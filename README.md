@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Feliz Cumpleaños ❤️</title>
+  <title>Feliz Cumpleaños Mi Niña Hermosa ❤️</title>
 
   <!-- =========================
        ESTILOS (CSS)
@@ -212,7 +212,7 @@
         <div class="message" id="mainMessage">
           <!-- Mensaje editable por JS -->
           Hoy celebro que existes y cada momento que compartimos. Gracias por tu ternura, por tu risa y por los días que haces mejores.
-          Quiero que hoy te rías mucho y que sientas todo mi cariño. Te amo.
+          Quiero que hoy te rías mucho y que sientas todo mi cariño, talves esto sea mucho pero aun asi te deseo lo mejor 
         </div>
 
         <!-- Botones de interacción -->
@@ -240,7 +240,8 @@
           <!-- Si quieres, reemplaza este texto con una foto usando background-image en CSS -->
           <div>
             ¡Tu foto aquí!<br>
-            (o un recuerdo bonito)
+            ![Imagen de WhatsApp 2025-11-19 a las 23 03 03_5ae7cd14](https://github.com/user-attachments/assets/2c1af59f-6b28-4ad8-bd0a-4d7081df893d)
+
           </div>
         </div>
 
