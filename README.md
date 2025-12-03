@@ -331,21 +331,6 @@
         <button class="btn" id="specialBtn">Toca aquí ❤️</button>
       </div>
 
-      <!-- Carrusel / Galería (simple) -->
-      <div style="margin-top:18px;">
-        <div class="carousel" id="carousel">
-          <div class="carousel-track" id="carouselTrack">
-            <div class="carousel-item"><img src="https://i.imgur.com/zY9v4ZC.jpg" alt="foto1"></div>
-            <div class="carousel-item"><img src="https://i.imgur.com/1bX5QH6.jpeg" alt="foto2"></div>
-            <div class="carousel-item"><img src="https://i.imgur.com/HXK2Hqv.jpeg" alt="foto3"></div>
-          </div>
-        </div>
-        <div class="carousel-controls">
-          <button class="small-btn" id="prevBtn" aria-label="Anterior">◀</button>
-          <button class="small-btn" id="nextBtn" aria-label="Siguiente">▶</button>
-        </div>
-      </div>
-
       <!-- Video area -->
       <div style="margin-top:18px;">
         <div style="font-weight:800; margin-bottom:8px;">Video especial</div>
@@ -360,7 +345,7 @@
     <!-- DERECHA (sidebar) -->
     <aside class="side" aria-label="Detalles">
       <div class="photo" role="img" aria-label="Foto principal">
-        <img id="mainPhoto" src="https://i.imgur.com/zY9v4ZC.jpg" alt="Tu foto">
+        <img id="mainPhoto" src="https://i.imgur.com/X0E2jMm.jpg" alt="Tu foto">
       </div>
 
       <div class="notes">
